@@ -1,0 +1,12 @@
+{
+  "name": "8kingbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "MrDense Roblox",
+  "license": "ISC"
+}
